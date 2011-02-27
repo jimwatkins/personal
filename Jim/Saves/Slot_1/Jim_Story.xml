@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Story Name="Jim" Module="single player">
+    <EventList>
+        <e ID="274884" t="1092" utc="1298644115" />
+        <e ID="274881" t="1107" utc="1298644129" />
+        <e ID="299961" t="1122" utc="1298644144" />
+        <e ID="100" t="1139" utc="1298644161" ss="Jim_100.jpg" />
+        <e ID="369164" t="1499" utc="1298644521" />
+        <e ID="101" t="1626" utc="1298644648" ss="Jim_101.jpg" />
+        <e ID="299963" t="1793" utc="1298644815" />
+        <e ID="100001" t="1027" utc="1298644049" L="1">
+            <LevelData Area="" Money="0" CurrentHealth="85" MaxHealth="95" CurrentStamina="145" MaxStamina="150" Level="1" XP="0">
+                <SpellList>
+                    <Sp ID="4023" />
+                    <Sp ID="200254" />
+                    <Sp ID="15002" />
+                    <Sp ID="14001" />
+                </SpellList>
+                <SkillList>
+                    <Sk ID="4001" />
+                    <Sk ID="4002" />
+                    <Sk ID="100061" />
+                    <Sk ID="100110" />
+                    <Sk ID="100100" />
+                </SkillList>
+                <StatList>
+                    <Strength Base="10" Modifier="0" />
+                    <Dexterity Base="11" Modifier="0" />
+                    <Willpower Base="16" Modifier="1" />
+                    <Magic Base="19" Modifier="0" />
+                    <Cunning Base="11" Modifier="0" />
+                    <Constitution Base="12" Modifier="0" />
+                </StatList>
+                <EquippedItems>
+                    <Slot Index="4" ResRef="gen_im_cth_mag_app" StackSize="1">
+                        <ItemPropertyList>
+                            <ItemProperty Index="0" ID="1002" />
+                        </ItemPropertyList>
+                        <ItemPropertyPowerList>
+                            <ItemPropertyPower Index="0" ID="1" />
+                        </ItemPropertyPowerList>
+                    </Slot>
+                    <Slot Index="6" ResRef="gen_im_arm_bot_lgt_ltr" StackSize="1" />
+                </EquippedItems>
+            </LevelData>
+        </e>
+    </EventList>
+</Story>
