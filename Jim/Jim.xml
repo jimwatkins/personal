@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<PlayerCharacter Name="Jim" Folder="Jim" Portrait="Jim_portrait.png" Avatar="Jim.jpg" Race="2" Class="2" Gender="1" Area="Apprentice Quarters" Origin="4" SoundSet="ss_pc_melf_wise" Money="135873" CurrentHealth="134" MaxHealth="134" CurrentStamina="146" MaxStamina="146" Level="7" XP="20612" XPNeeded="24501" Platform="PC" Tint="1">
+<PlayerCharacter Name="Jim" Folder="Jim" Portrait="Jim_portrait.png" Avatar="Jim.jpg" Race="2" Class="2" Gender="1" Area="Apprentice Quarters" Origin="4" SoundSet="ss_pc_melf_wise" Money="135873" CurrentHealth="134" MaxHealth="134" CurrentStamina="146" MaxStamina="146" Level="7" XP="21141" XPNeeded="24501" Platform="PC" Tint="1">
     <SpellList>
         <Spell Index="0" ID="4023" />
         <Spell Index="1" ID="200254" />
@@ -32,23 +32,23 @@
         <Constitution Base="15" Modifier="0" />
     </StatList>
     <HeroicStatList>
-        <number_of_kills ID="1001" Current="-1" Base="98" Total="98" />
-        <total_damage_dealt ID="1002" Current="-1" Base="16507" Total="16507" />
+        <number_of_kills ID="1001" Current="-1" Base="101" Total="101" />
+        <total_damage_dealt ID="1002" Current="-1" Base="17188" Total="17188" />
         <total_friendly_fire ID="1003" Current="-1" Base="61" Total="61" />
-        <most_damage_hit ID="1004" Current="-1" Base="57" Total="57" />
-        <total_damage_percent ID="1005" Current="-1" Base="60" Total="60" />
-        <hit_rate ID="1006" Current="-1" Base="94" Total="94" />
+        <most_damage_hit ID="1004" Current="-1" Base="75" Total="75" />
+        <total_damage_percent ID="1005" Current="-1" Base="59" Total="59" />
+        <hit_rate ID="1006" Current="-1" Base="95" Total="95" />
         <most_powerful_foe_slain ID="1007" Current="-1" Base="373489" Total="373489" />
         <total_injuries_incurred ID="1008" Current="-1" Base="2" Total="2" />
         <most_powerful_rating ID="1009" Current="-1" Base="12" Total="12" />
-        <attack_count ID="1010" Current="-1" Base="303" Total="303" />
-        <hit_count ID="1011" Current="-1" Base="287" Total="287" />
+        <attack_count ID="1010" Current="-1" Base="324" Total="324" />
+        <hit_count ID="1011" Current="-1" Base="308" Total="308" />
     </HeroicStatList>
     <HeroicPartyStatList>
-        <total_creatures_slain ID="2001" Current="-1" Base="241" Total="241" />
-        <total_damage_party ID="2002" Current="-1" Base="27152" Total="27152" />
+        <total_creatures_slain ID="2001" Current="-1" Base="254" Total="254" />
+        <total_damage_party ID="2002" Current="-1" Base="29120" Total="29120" />
         <most_powerful_foe_slain_party ID="2003" Current="-1" Base="163289" Total="163289" />
-        <kills_demons ID="2004" Current="-1" Base="2" Total="2" />
+        <kills_demons ID="2004" Current="-1" Base="15" Total="15" />
         <kills_fantastical ID="2005" Current="-1" Base="6" Total="6" />
         <kills_constructs ID="2006" Current="-1" Base="0" Total="0" />
         <kills_humanoids ID="2007" Current="-1" Base="49" Total="49" />
@@ -63,11 +63,11 @@
         <stealing_failure ID="2016" Current="-1" Base="0" Total="0" />
         <most_money_ever ID="2017" Current="-1" Base="135873" Total="135873" />
         <money_spent ID="2018" Current="-1" Base="5000" Total="5000" />
-        <total_dialogues_started ID="2019" Current="-1" Base="204" Total="204" />
-        <number_of_codex_entries ID="2020" Current="-1" Base="55" Total="55" />
+        <total_dialogues_started ID="2019" Current="-1" Base="205" Total="205" />
+        <number_of_codex_entries ID="2020" Current="-1" Base="59" Total="59" />
         <total_miles_walked ID="2021" Current="-1" Base="0" Total="0" />
         <percent_areas_explored ID="2022" Current="-1" Base="13" Total="13" />
-        <total_time_played ID="2023" Current="-1" Base="54172" Total="54172" />
+        <total_time_played ID="2023" Current="-1" Base="57491" Total="57491" />
         <previous_money ID="2024" Current="-1" Base="135873" Total="135873" />
         <current_time_played ID="2025" Current="-1" Base="0" Total="0" />
         <position_x ID="2026" Current="-1" Base="0" Total="0" />
@@ -75,7 +75,7 @@
         <total_meters_walked ID="2028" Current="-1" Base="0" Total="0" />
         <most_powerful_rating_party ID="2029" Current="-1" Base="24" Total="24" />
         <formatted_time ID="2030" Current="-1" Base="0" Total="2" />
-        <items_crafted ID="2031" Current="-1" Base="18" Total="18" />
+        <items_crafted ID="2031" Current="-1" Base="26" Total="26" />
     </HeroicPartyStatList>
     <EquippedItems ActiveSet="0">
         <Slot Index="0" Set="0" ResRef="gen_im_wep_mag_sta_drk">
