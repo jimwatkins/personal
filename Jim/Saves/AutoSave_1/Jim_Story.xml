@@ -69,6 +69,7 @@
         <e ID="369174" t="34593" utc="1298684243" />
         <e ID="209" t="35786" utc="1298685436" ss="Jim_209.jpg" />
         <e ID="373795" t="36582" utc="1298686233" />
+<<<<<<< HEAD
         <e ID="369173" t="37785" utc="1298687435" />
         <e ID="378802" t="38074" utc="1298698839" ss="Jim_378802.jpg" />
         <e ID="210" t="39185" utc="1298699951" ss="Jim_210.jpg" />
@@ -98,6 +99,9 @@
         <e ID="299169" t="41226" utc="1298701991" />
         <e ID="373222" t="41562" utc="1298702327" />
         <e ID="100001" t="1027" utc="1298644049" L="6">
+=======
+        <e ID="100001" t="1027" utc="1298644049" L="5">
+>>>>>>> 8ac2fa1cd188d2728e5c85e4f7c3a0cf879b8131
             <LevelData Area="" Money="0" CurrentHealth="85" MaxHealth="95" CurrentStamina="145" MaxStamina="150" Level="1" XP="0">
                 <SpellList>
                     <Sp ID="4023" />
@@ -133,7 +137,11 @@
                 </EquippedItems>
             </LevelData>
         </e>
+<<<<<<< HEAD
         <e ID="100002" t="7843" utc="1298651314" L="6">
+=======
+        <e ID="100002" t="7843" utc="1298651314" L="5">
+>>>>>>> 8ac2fa1cd188d2728e5c85e4f7c3a0cf879b8131
             <LevelData Area="Apprentice Quarters" Money="0" CurrentHealth="99" MaxHealth="104" CurrentStamina="156" MaxStamina="156" Level="2" XP="2511">
                 <SpellList>
                     <Sp ID="4023" />
@@ -170,7 +178,11 @@
                 </EquippedItems>
             </LevelData>
         </e>
+<<<<<<< HEAD
         <e ID="100003" t="14873" utc="1298658373" L="6">
+=======
+        <e ID="100003" t="14873" utc="1298658373" L="5">
+>>>>>>> 8ac2fa1cd188d2728e5c85e4f7c3a0cf879b8131
             <LevelData Area="Mage Tower - Basement" Money="69" CurrentHealth="108" MaxHealth="113" CurrentStamina="167" MaxStamina="167" Level="3" XP="4712">
                 <SpellList>
                     <Sp ID="4023" />
@@ -265,7 +277,11 @@
                 </EquippedItems>
             </LevelData>
         </e>
+<<<<<<< HEAD
         <e ID="100004" t="24002" utc="1298669883" L="6">
+=======
+        <e ID="100004" t="24002" utc="1298669883" L="5">
+>>>>>>> 8ac2fa1cd188d2728e5c85e4f7c3a0cf879b8131
             <LevelData Area="Korcari Wilds" Money="11994" CurrentHealth="117" MaxHealth="122" CurrentStamina="123" MaxStamina="123" Level="4" XP="7601">
                 <SpellList>
                     <Sp ID="4023" />
@@ -358,7 +374,11 @@
                 </EquippedItems>
             </LevelData>
         </e>
+<<<<<<< HEAD
         <e ID="100005" t="33181" utc="1298679057" L="6">
+=======
+        <e ID="100005" t="33181" utc="1298679057" L="5">
+>>>>>>> 8ac2fa1cd188d2728e5c85e4f7c3a0cf879b8131
             <LevelData Area="Ostagar" Money="11210" CurrentHealth="126" MaxHealth="126" CurrentStamina="124" MaxStamina="124" Level="5" XP="12269">
                 <SpellList>
                     <Sp ID="4023" />
@@ -464,6 +484,7 @@
                 </EquippedItems>
             </LevelData>
         </e>
+<<<<<<< HEAD
         <e ID="100006" t="40346" utc="1298701111" L="6">
             <LevelData Area="Deep in the Wilds" Money="16184" CurrentHealth="130" MaxHealth="130" CurrentStamina="180" MaxStamina="185" Level="6" XP="16226">
                 <SpellList>
@@ -572,5 +593,7 @@
                 </EquippedItems>
             </LevelData>
         </e>
+=======
+>>>>>>> 8ac2fa1cd188d2728e5c85e4f7c3a0cf879b8131
     </EventList>
 </Story>
