@@ -122,6 +122,10 @@
         <e ID="270" t="52668" utc="1298833679" ss="Jim_270.jpg" />
         <e ID="274761" t="53000" utc="1298834011" />
         <e ID="274763" t="53000" utc="1298834011" />
+        <e ID="369134" t="54420" utc="1298835429" />
+        <e ID="379117" t="54568" utc="1298835577" />
+        <e ID="379139" t="54770" utc="1298835779" />
+        <e ID="376607" t="54789" utc="1298835798" />
         <e ID="100001" t="1027" utc="1298644049" L="7">
             <LevelData Area="" Money="0" CurrentHealth="85" MaxHealth="95" CurrentStamina="145" MaxStamina="150" Level="1" XP="0">
                 <SpellList>
