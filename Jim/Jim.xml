@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<PlayerCharacter Name="Jim" Folder="Jim" Portrait="Jim_portrait.png" Avatar="Jim.jpg" Race="2" Class="2" Gender="1" Area="Templar Quarters" Origin="4" SoundSet="ss_pc_melf_wise" Money="148857" CurrentHealth="134" MaxHealth="134" CurrentStamina="196" MaxStamina="196" Level="7" XP="23665" XPNeeded="24501" Platform="PC" Tint="1">
+<PlayerCharacter Name="Jim" Folder="Jim" Portrait="Jim_portrait.png" Avatar="Jim.jpg" Race="2" Class="2" Gender="1" Area="Mage Asunder" Origin="4" SoundSet="ss_pc_melf_wise" Money="148857" CurrentHealth="148" MaxHealth="148" CurrentStamina="227" MaxStamina="227" Level="8" XP="26488" XPNeeded="30001" Platform="PC" Tint="1">
     <SpellList>
         <Spell Index="0" ID="4023" />
         <Spell Index="1" ID="200254" />
@@ -12,6 +12,7 @@
         <Spell Index="8" ID="200255" />
         <Spell Index="9" ID="10601" />
         <Spell Index="10" ID="200256" />
+        <Spell Index="11" ID="14000" />
     </SpellList>
     <TalentList />
     <SkillList>
@@ -22,52 +23,56 @@
         <Skill Index="4" ID="100100" />
         <Skill Index="5" ID="100101" />
         <Skill Index="6" ID="100062" />
+        <Skill Index="7" ID="100081" />
+        <Skill Index="8" ID="100083" />
+        <Skill Index="9" ID="100084" />
+        <Skill Index="10" ID="100080" />
     </SkillList>
     <StatList>
-        <Strength Base="12" Modifier="0" />
-        <Dexterity Base="11" Modifier="0" />
-        <Willpower Base="18" Modifier="1" />
-        <Magic Base="30" Modifier="1" />
-        <Cunning Base="11" Modifier="0" />
-        <Constitution Base="15" Modifier="0" />
+        <Strength Base="14" Modifier="0" />
+        <Dexterity Base="14" Modifier="0" />
+        <Willpower Base="23" Modifier="1" />
+        <Magic Base="33" Modifier="1" />
+        <Cunning Base="15" Modifier="0" />
+        <Constitution Base="17" Modifier="0" />
     </StatList>
     <HeroicStatList>
-        <number_of_kills ID="1001" Current="-1" Base="117" Total="117" />
-        <total_damage_dealt ID="1002" Current="-1" Base="22254" Total="22254" />
+        <number_of_kills ID="1001" Current="-1" Base="211" Total="211" />
+        <total_damage_dealt ID="1002" Current="-1" Base="34300" Total="34300" />
         <total_friendly_fire ID="1003" Current="-1" Base="103" Total="103" />
-        <most_damage_hit ID="1004" Current="-1" Base="82" Total="82" />
-        <total_damage_percent ID="1005" Current="-1" Base="55" Total="55" />
-        <hit_rate ID="1006" Current="-1" Base="96" Total="96" />
+        <most_damage_hit ID="1004" Current="-1" Base="91" Total="91" />
+        <total_damage_percent ID="1005" Current="-1" Base="65" Total="65" />
+        <hit_rate ID="1006" Current="-1" Base="97" Total="97" />
         <most_powerful_foe_slain ID="1007" Current="-1" Base="272680" Total="272680" />
         <total_injuries_incurred ID="1008" Current="-1" Base="3" Total="3" />
         <most_powerful_rating ID="1009" Current="-1" Base="14" Total="14" />
-        <attack_count ID="1010" Current="-1" Base="429" Total="429" />
-        <hit_count ID="1011" Current="-1" Base="412" Total="412" />
+        <attack_count ID="1010" Current="-1" Base="572" Total="572" />
+        <hit_count ID="1011" Current="-1" Base="555" Total="555" />
     </HeroicStatList>
     <HeroicPartyStatList>
-        <total_creatures_slain ID="2001" Current="-1" Base="310" Total="310" />
-        <total_damage_party ID="2002" Current="-1" Base="40451" Total="40451" />
+        <total_creatures_slain ID="2001" Current="-1" Base="404" Total="404" />
+        <total_damage_party ID="2002" Current="-1" Base="52498" Total="52498" />
         <most_powerful_foe_slain_party ID="2003" Current="-1" Base="383076" Total="383076" />
-        <kills_demons ID="2004" Current="-1" Base="40" Total="40" />
-        <kills_fantastical ID="2005" Current="-1" Base="6" Total="6" />
-        <kills_constructs ID="2006" Current="-1" Base="0" Total="0" />
-        <kills_humanoids ID="2007" Current="-1" Base="65" Total="65" />
-        <kills_darkspawn ID="2008" Current="-1" Base="130" Total="130" />
+        <kills_demons ID="2004" Current="-1" Base="55" Total="55" />
+        <kills_fantastical ID="2005" Current="-1" Base="8" Total="8" />
+        <kills_constructs ID="2006" Current="-1" Base="13" Total="13" />
+        <kills_humanoids ID="2007" Current="-1" Base="103" Total="103" />
+        <kills_darkspawn ID="2008" Current="-1" Base="150" Total="150" />
         <kills_bosses ID="2009" Current="-1" Base="1" Total="1" />
         <kills_dragonkin ID="2010" Current="-1" Base="0" Total="0" />
         <kills_corrupted ID="2011" Current="-1" Base="0" Total="0" />
         <kills_vermin ID="2012" Current="-1" Base="19" Total="19" />
-        <kills_animals ID="2013" Current="-1" Base="34" Total="34" />
+        <kills_animals ID="2013" Current="-1" Base="40" Total="40" />
         <kills_harmless ID="2014" Current="-1" Base="0" Total="0" />
         <stealing_success ID="2015" Current="-1" Base="0" Total="0" />
         <stealing_failure ID="2016" Current="-1" Base="0" Total="0" />
         <most_money_ever ID="2017" Current="-1" Base="148857" Total="148857" />
         <money_spent ID="2018" Current="-1" Base="5000" Total="5000" />
-        <total_dialogues_started ID="2019" Current="-1" Base="221" Total="221" />
-        <number_of_codex_entries ID="2020" Current="-1" Base="71" Total="71" />
+        <total_dialogues_started ID="2019" Current="-1" Base="239" Total="239" />
+        <number_of_codex_entries ID="2020" Current="-1" Base="80" Total="80" />
         <total_miles_walked ID="2021" Current="-1" Base="0" Total="0" />
-        <percent_areas_explored ID="2022" Current="-1" Base="14" Total="14" />
-        <total_time_played ID="2023" Current="-1" Base="71183" Total="71183" />
+        <percent_areas_explored ID="2022" Current="-1" Base="15" Total="15" />
+        <total_time_played ID="2023" Current="-1" Base="79844" Total="79844" />
         <previous_money ID="2024" Current="-1" Base="148857" Total="148857" />
         <current_time_played ID="2025" Current="-1" Base="0" Total="0" />
         <position_x ID="2026" Current="-1" Base="0" Total="0" />
