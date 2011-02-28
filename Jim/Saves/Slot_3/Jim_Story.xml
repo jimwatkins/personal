@@ -148,7 +148,6 @@
         <e ID="369150" t="68141" utc="1298873161" />
         <e ID="379168" t="68235" utc="1298873255" />
         <e ID="379167" t="68277" utc="1298873297" />
-        <e ID="369142" t="68782" utc="1298873801" />
         <e ID="100001" t="1027" utc="1298644049" L="7">
             <LevelData Area="" Money="0" CurrentHealth="85" MaxHealth="95" CurrentStamina="145" MaxStamina="150" Level="1" XP="0">
                 <SpellList>
