@@ -308,7 +308,10 @@
         <e ID="381033" t="188370" utc="1299825240" />
         <e ID="367164" t="189004" utc="1299825874" />
         <e ID="369138" t="190139" utc="1299827009" />
-        <e ID="100001" t="1027" utc="1298644049" L="12">
+        <e ID="391854" t="192532" utc="1299829403" />
+        <e ID="395989" t="193508" utc="1299999847" ss="Jim_395989.jpg" />
+        <e ID="293771" t="194702" utc="1300001041" />
+        <e ID="100001" t="1027" utc="1298644049" L="13">
             <LevelData Area="" Money="0" CurrentHealth="85" MaxHealth="95" CurrentStamina="145" MaxStamina="150" Level="1" XP="0">
                 <SpellList>
                     <Sp ID="4023" />
@@ -344,7 +347,7 @@
                 </EquippedItems>
             </LevelData>
         </e>
-        <e ID="100002" t="7843" utc="1298651314" L="12">
+        <e ID="100002" t="7843" utc="1298651314" L="13">
             <LevelData Area="Apprentice Quarters" Money="0" CurrentHealth="99" MaxHealth="104" CurrentStamina="156" MaxStamina="156" Level="2" XP="2511">
                 <SpellList>
                     <Sp ID="4023" />
@@ -381,7 +384,7 @@
                 </EquippedItems>
             </LevelData>
         </e>
-        <e ID="100003" t="14873" utc="1298658373" L="12">
+        <e ID="100003" t="14873" utc="1298658373" L="13">
             <LevelData Area="Mage Tower - Basement" Money="69" CurrentHealth="108" MaxHealth="113" CurrentStamina="167" MaxStamina="167" Level="3" XP="4712">
                 <SpellList>
                     <Sp ID="4023" />
@@ -476,7 +479,7 @@
                 </EquippedItems>
             </LevelData>
         </e>
-        <e ID="100004" t="24002" utc="1298669883" L="12">
+        <e ID="100004" t="24002" utc="1298669883" L="13">
             <LevelData Area="Korcari Wilds" Money="11994" CurrentHealth="117" MaxHealth="122" CurrentStamina="123" MaxStamina="123" Level="4" XP="7601">
                 <SpellList>
                     <Sp ID="4023" />
@@ -569,7 +572,7 @@
                 </EquippedItems>
             </LevelData>
         </e>
-        <e ID="100005" t="33181" utc="1298679057" L="12">
+        <e ID="100005" t="33181" utc="1298679057" L="13">
             <LevelData Area="Ostagar" Money="11210" CurrentHealth="126" MaxHealth="126" CurrentStamina="124" MaxStamina="124" Level="5" XP="12269">
                 <SpellList>
                     <Sp ID="4023" />
@@ -675,7 +678,7 @@
                 </EquippedItems>
             </LevelData>
         </e>
-        <e ID="100006" t="40346" utc="1298701111" L="12">
+        <e ID="100006" t="40346" utc="1298701111" L="13">
             <LevelData Area="Deep in the Wilds" Money="16184" CurrentHealth="130" MaxHealth="130" CurrentStamina="180" MaxStamina="185" Level="6" XP="16226">
                 <SpellList>
                     <Sp ID="4023" />
@@ -783,7 +786,7 @@
                 </EquippedItems>
             </LevelData>
         </e>
-        <e ID="100007" t="50506" utc="1298748139" L="12">
+        <e ID="100007" t="50506" utc="1298748139" L="13">
             <LevelData Area="Camp" Money="120873" CurrentHealth="134" MaxHealth="134" CurrentStamina="141" MaxStamina="146" Level="7" XP="19583">
                 <SpellList>
                     <Sp ID="4023" />
@@ -868,7 +871,7 @@
                 </EquippedItems>
             </LevelData>
         </e>
-        <e ID="100008" t="75616" utc="1298881753" L="12">
+        <e ID="100008" t="75616" utc="1298881753" L="13">
             <LevelData Area="Weisshaupt" Money="148857" CurrentHealth="138" MaxHealth="138" CurrentStamina="217" MaxStamina="217" Level="8" XP="24771">
                 <SpellList>
                     <Sp ID="4023" />
@@ -981,7 +984,7 @@
                 </EquippedItems>
             </LevelData>
         </e>
-        <e ID="100009" t="85148" utc="1298941112" L="12">
+        <e ID="100009" t="85148" utc="1298941112" L="13">
             <LevelData Area="Templar Quarters" Money="148857" CurrentHealth="138" MaxHealth="152" CurrentStamina="183" MaxStamina="188" Level="9" XP="30045">
                 <SpellList>
                     <Sp ID="4023" />
@@ -1091,7 +1094,7 @@
                 </EquippedItems>
             </LevelData>
         </e>
-        <e ID="100010" t="107700" utc="1299009316" L="12">
+        <e ID="100010" t="107700" utc="1299009316" L="13">
             <LevelData Area="Redcliffe Castle - Main Floor" Money="58477" CurrentHealth="156" MaxHealth="156" CurrentStamina="244" MaxStamina="259" Level="10" XP="36003">
                 <SpellList>
                     <Sp ID="4023" />
@@ -1213,7 +1216,7 @@
                 </EquippedItems>
             </LevelData>
         </e>
-        <e ID="100011" t="150700" utc="1299337670" L="12">
+        <e ID="100011" t="150700" utc="1299337670" L="13">
             <LevelData Area="Denerim Market District" Money="113807" CurrentHealth="135" MaxHealth="135" CurrentStamina="265" MaxStamina="270" Level="11" XP="43022">
                 <SpellList>
                     <Sp ID="4023" />
@@ -1337,7 +1340,7 @@
                 </EquippedItems>
             </LevelData>
         </e>
-        <e ID="100012" t="176484" utc="1299415786" L="12">
+        <e ID="100012" t="176484" utc="1299415786" L="13">
             <LevelData Area="Gnawed Noble Tavern" Money="245634" CurrentHealth="164" MaxHealth="164" CurrentStamina="196" MaxStamina="206" Level="12" XP="49703">
                 <SpellList>
                     <Sp ID="4023" />
@@ -1452,6 +1455,142 @@
                         </ItemPropertyList>
                         <ItemPropertyPowerList>
                             <ItemPropertyPower Index="0" ID="1" />
+                        </ItemPropertyPowerList>
+                    </Slot>
+                    <Slot Index="12" ResRef="gen_im_acc_blt_d1a" StackSize="1">
+                        <ItemPropertyList>
+                            <ItemProperty Index="0" ID="6081" />
+                        </ItemPropertyList>
+                        <ItemPropertyPowerList>
+                            <ItemPropertyPower Index="0" ID="1" />
+                        </ItemPropertyPowerList>
+                    </Slot>
+                </EquippedItems>
+            </LevelData>
+        </e>
+        <e ID="100013" t="194070" utc="1300000409" L="13">
+            <LevelData Area="Caverns" Money="222127" CurrentHealth="168" MaxHealth="168" CurrentStamina="287" MaxStamina="297" Level="13" XP="57026">
+                <SpellList>
+                    <Sp ID="4023" />
+                    <Sp ID="200254" />
+                    <Sp ID="15002" />
+                    <Sp ID="14001" />
+                    <Sp ID="13001" />
+                    <Sp ID="11007" />
+                    <Sp ID="13002" />
+                    <Sp ID="11001" />
+                    <Sp ID="200255" />
+                    <Sp ID="10601" />
+                    <Sp ID="200256" />
+                    <Sp ID="14000" />
+                    <Sp ID="13000" />
+                    <Sp ID="200257" />
+                    <Sp ID="14002" />
+                    <Sp ID="10211" />
+                    <Sp ID="12006" />
+                    <Sp ID="17019" />
+                    <Sp ID="10209" />
+                </SpellList>
+                <SkillList>
+                    <Sk ID="4001" />
+                    <Sk ID="4002" />
+                    <Sk ID="100061" />
+                    <Sk ID="100110" />
+                    <Sk ID="100100" />
+                    <Sk ID="100101" />
+                    <Sk ID="100062" />
+                    <Sk ID="100102" />
+                    <Sk ID="100063" />
+                </SkillList>
+                <StatList>
+                    <Strength Base="16" Modifier="0" />
+                    <Dexterity Base="15" Modifier="0" />
+                    <Willpower Base="32" Modifier="0" />
+                    <Magic Base="40" Modifier="0" />
+                    <Cunning Base="16" Modifier="0" />
+                    <Constitution Base="17" Modifier="0" />
+                </StatList>
+                <EquippedItems>
+                    <Slot Index="0" ResRef="gen_im_wep_mag_sta_fi1" StackSize="1">
+                        <ItemPropertyList>
+                            <ItemProperty Index="0" ID="1410" />
+                            <ItemProperty Index="1" ID="1516" />
+                            <ItemProperty Index="2" ID="6010" />
+                            <ItemProperty Index="3" ID="10007" />
+                        </ItemPropertyList>
+                        <ItemPropertyPowerList>
+                            <ItemPropertyPower Index="0" ID="10" />
+                            <ItemPropertyPower Index="1" ID="3" />
+                            <ItemPropertyPower Index="2" ID="1" />
+                            <ItemPropertyPower Index="3" ID="4" />
+                        </ItemPropertyPowerList>
+                    </Slot>
+                    <Slot Index="2" ResRef="gen_im_staff_projectile" StackSize="1" />
+                    <Slot Index="4" ResRef="gen_im_cth_mag_tvm" StackSize="1">
+                        <ItemPropertyList>
+                            <ItemProperty Index="0" ID="1509" />
+                            <ItemProperty Index="1" ID="1510" />
+                            <ItemProperty Index="2" ID="1516" />
+                        </ItemPropertyList>
+                        <ItemPropertyPowerList>
+                            <ItemPropertyPower Index="0" ID="4" />
+                            <ItemPropertyPower Index="1" ID="2" />
+                            <ItemPropertyPower Index="2" ID="5" />
+                        </ItemPropertyPowerList>
+                    </Slot>
+                    <Slot Index="5" ResRef="gen_im_arm_hel_mag_lib" StackSize="1">
+                        <ItemPropertyList>
+                            <ItemProperty Index="0" ID="1108" />
+                            <ItemProperty Index="1" ID="1509" />
+                            <ItemProperty Index="2" ID="6010" />
+                        </ItemPropertyList>
+                        <ItemPropertyPowerList>
+                            <ItemPropertyPower Index="0" ID="4" />
+                            <ItemPropertyPower Index="1" ID="1" />
+                            <ItemPropertyPower Index="2" ID="1" />
+                        </ItemPropertyPowerList>
+                    </Slot>
+                    <Slot Index="6" ResRef="gen_im_arm_bot_lgt_rlr" StackSize="1" />
+                    <Slot Index="7" ResRef="gen_im_arm_glv_lgt_ele1" StackSize="1">
+                        <ItemPropertyList>
+                            <ItemProperty Index="0" ID="6010" />
+                            <ItemProperty Index="1" ID="10000" />
+                            <ItemProperty Index="2" ID="10011" />
+                        </ItemPropertyList>
+                        <ItemPropertyPowerList>
+                            <ItemPropertyPower Index="0" ID="1" />
+                            <ItemPropertyPower Index="1" ID="1" />
+                            <ItemPropertyPower Index="2" ID="4" />
+                        </ItemPropertyPowerList>
+                    </Slot>
+                    <Slot Index="9" ResRef="gen_im_acc_rng_ele10" StackSize="1">
+                        <ItemPropertyList>
+                            <ItemProperty Index="0" ID="10011" />
+                        </ItemPropertyList>
+                        <ItemPropertyPowerList>
+                            <ItemPropertyPower Index="0" ID="4" />
+                        </ItemPropertyPowerList>
+                    </Slot>
+                    <Slot Index="10" ResRef="gen_im_acc_rng_cld10" StackSize="1">
+                        <ItemPropertyList>
+                            <ItemProperty Index="0" ID="10009" />
+                        </ItemPropertyList>
+                        <ItemPropertyPowerList>
+                            <ItemPropertyPower Index="0" ID="4" />
+                        </ItemPropertyPowerList>
+                    </Slot>
+                    <Slot Index="11" ResRef="gen_im_acc_amu_am16" StackSize="1">
+                        <ItemPropertyList>
+                            <ItemProperty Index="0" ID="1108" />
+                            <ItemProperty Index="1" ID="1510" />
+                            <ItemProperty Index="2" ID="6097" />
+                            <ItemProperty Index="3" ID="6112" />
+                        </ItemPropertyList>
+                        <ItemPropertyPowerList>
+                            <ItemPropertyPower Index="0" ID="2" />
+                            <ItemPropertyPower Index="1" ID="2" />
+                            <ItemPropertyPower Index="2" ID="2" />
+                            <ItemPropertyPower Index="3" ID="3" />
                         </ItemPropertyPowerList>
                     </Slot>
                     <Slot Index="12" ResRef="gen_im_acc_blt_d1a" StackSize="1">
