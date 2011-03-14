@@ -311,6 +311,9 @@
         <e ID="391854" t="192532" utc="1299829403" />
         <e ID="395989" t="193508" utc="1299999847" ss="Jim_395989.jpg" />
         <e ID="293771" t="194702" utc="1300001041" />
+        <e ID="369181" t="195843" utc="1300053533" />
+        <e ID="373240" t="198006" utc="1300082835" />
+        <e ID="373105" t="198033" utc="1300082861" />
         <e ID="100001" t="1027" utc="1298644049" L="13">
             <LevelData Area="" Money="0" CurrentHealth="85" MaxHealth="95" CurrentStamina="145" MaxStamina="150" Level="1" XP="0">
                 <SpellList>
