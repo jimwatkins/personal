@@ -327,6 +327,11 @@
         <e ID="272915" t="211964" utc="1300652847" />
         <e ID="355" t="212012" utc="1300652895" ss="Jim_355.jpg" />
         <e ID="356" t="212260" utc="1300653143" ss="Jim_356.jpg" />
+        <e ID="378799" t="213994" utc="1300671325" ss="Jim_378799.jpg" />
+        <e ID="378553" t="214659" utc="1300671990" ss="Jim_378553.jpg" />
+        <e ID="395977" t="214659" utc="1300671990" ss="Jim_395977.jpg" />
+        <e ID="353283" t="216443" utc="1301380513" />
+        <e ID="368783" t="216476" utc="1301380546" />
         <e ID="100001" t="1027" utc="1298644049" L="13">
             <LevelData Area="" Money="0" CurrentHealth="85" MaxHealth="95" CurrentStamina="145" MaxStamina="150" Level="1" XP="0">
                 <SpellList>
